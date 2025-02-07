@@ -44,7 +44,7 @@ export default function Header() {
 
       <div className="mb-8">
         <span className="text-gray-200 text-lg">
-          Veamos por qué deberías decir que sí...
+          Antes de responder a mi pregunta, descubre lo que he preparado para ti
         </span>
       </div>
 
