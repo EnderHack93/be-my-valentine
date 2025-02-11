@@ -212,7 +212,7 @@ const ValentinePage = () => {
                 backContent={
                   <div className="flex flex-col items-center justify-center text-center p-4">
                     <p className="text-lg font-semibold text-red-500">
-                      "Eres mi razón de sonreír cada día. 💖 Gracias por ser tan
+                      "Eres la razon de mi felicidad y mi amor. 💖 Gracias por ser tan
                       especial."
                     </p>
                   </div>
